@@ -1,4 +1,4 @@
-# DAY 01 OF PYTHON PROGRAM 
+# DAY 01 OF PYTHON PROGRAM : " PYTHON_FUNDAMENTALS "
 # 1.Odd and Even program:
 
 num = int(input("Enter a number:"))
