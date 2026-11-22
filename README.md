@@ -1,71 +1,25 @@
-# Python Practical Programs – SY B.Sc. IT
-## About This Repository
-This repository contains Python programming practicals and Data Structures and Algorithms (DSA) programs for SY B.Sc. Information Technology – Major Practical 3.
-The purpose of this repository is to practice Python programming concepts, understand programming logic, and prepare for practical examinations.
+# Python Learning Journey 🐍
 
-## Modules::
-### Module 1 – Python Programming                                  ### Module 2 – Data Structures and Algorithms
-Topics covered:                                                        Topics covered:
-- Basic Python Programs                                                - Array Operations
-- Conditional Statements                                               - Singly Linked List
-- Loops                                                                - Stack
-- Fibonacci Series                                                     - Infix to Postfix Conversion
-- Sum of Digits                                                        - Queue
-- NumPy Arrays                                                         - Binary Search Tree
-- Array Indexing and Slicing                                           - Hash Table
-- Functions and Lambda Functions                                       - Tree Traversal                        
-- Recursion                                                            - Bubble Sort
-- Armstrong and Palindrome Numbers                                     - Insertion Sort
-- Strings and Tuples                                                   - Selection Sort
-- Dictionaries                                                         - Linear Search
-- Python Modules                                                       - Binary Search
-- File Handling                                                        - Student Management System
-- Regular Expressions
-- Date and Time
-- HTML Parsing
+Welcome to my Python learning repository!
+I created this repository to practice Python programming, improve my coding skills, and track my learning journey.
 
-## Requirements
-- Python 3.x
+## 📚 Topics I'm Learning
+- Python Basics
+- Variables and Data Types
+- Conditions and Loops
+- Strings and Functions
+- Lists, Tuples and Dictionaries
 - NumPy
+- File Handling
+- Object-Oriented Programming
+- Data Structures and Algorithms
 
-## Installation
-Clone this repository:
-```bash
-git clone https://github.com/ANSARIANAM4903/Python-Programs-2yr.git
-```
+## 🎯 My Goal
+To build strong Python fundamentals, improve problem-solving skills, and prepare for Backend Development.
 
-Open the project folder:
-```bash
-cd Python-Programs-2yr
-```
+## 🛠️ Language & Tools
+- Python
+- VS Code
+- Git & GitHub
 
-Install NumPy:
-```bash
-pip install numpy
-```
-
-## How to Run
-Run any Python program using:
-```bash
-python filename.py
-```
-For example:
-```bash
-python : number even or odd.py
-```
-
-## Learning Objectives:
-- Understand Python fundamentals.
-- Develop problem-solving skills.
-- Practice functions and recursion.
-- Understand Python file handling.
-- Implement common data structures.
-- Learn searching and sorting algorithms.
-
-## Author
-
-**ANSARI ANAM**
-SY B.Sc. Information Technology
-
-## Note
-This repository is created for educational purposes and practical examination preparation.
+**This repository represents my continuous learning and coding practice.** 🚀
