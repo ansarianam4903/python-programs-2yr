@@ -1,3 +1,4 @@
+# DAY 01 OF PYTHON PROGRAM 
 # 1.Odd and Even program:
 
 num = int(input("Enter a number:"))
