@@ -131,9 +131,7 @@ print("Ascending order :", ascending)
 print("decending order :", descending)
 
 #11. Recursive Factorial
-
-
-# 19. Factorial Using Recursion
+# Factorial Using Recursion
 # Program to calculate factorial of a number.
 
 def factorial(n):
